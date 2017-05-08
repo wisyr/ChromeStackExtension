@@ -9,4 +9,4 @@ Chrome extension allowing to just copy and paste the most popular code parts whi
 
 <hr>
 
-![Chrome](http://i.imgur.com/FWHcwRM.png)
+![Chrome](http://i.imgur.com/Q0iOmcW.png)
